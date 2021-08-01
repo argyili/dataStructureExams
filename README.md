@@ -1,2 +1,19 @@
-# entranceExams
-Graduate School Information Department Entrance Exam Answers in Japan (日本大学院情報科入試解答)
+# Exams of Data Structure
+
+Answers for data structure problems in Japanese Graduate School of Informatics Department entrance exams.  
+日本の大学院情報学研究科入試におけるデータ構造問題の回答。
+
+## Answer List
+
+Department of Intelligent Systems, Graduate School of Informatics, Nagoya University.  
+*To be continued irregularly.*
+
+## Description
+
+Exam problems are accessed from the homepage of graduate school.  
+Answers are provided by note formats, which display on the last page.  
+Notes are all edited by the authors for teaching students and may include some descriptions in Chinese.
+
+## Statement
+
+Please feel free to contact me if you have confusion or suggestions about the answers.
