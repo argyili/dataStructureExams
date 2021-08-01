@@ -1,7 +1,7 @@
 # Exams of Data Structure
 
 Answers for data structure problems in Japanese Graduate School of Informatics Department entrance exams.  
-日本の大学院情報学研究科入試におけるデータ構造問題の回答。
+日本の大学院情報学研究科入試におけるデータ構造問題の解答。
 
 ## Answer List
 
