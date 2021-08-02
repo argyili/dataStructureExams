@@ -5,6 +5,7 @@ Answers for data structure problems in Japanese Graduate School of Informatics D
 
 ## Answer List
 
+Five Departments, Graduate School of Information Science and Technology, Osaka University.  
 Department of Intelligent Systems, Graduate School of Informatics, Nagoya University.  
 *To be continued irregularly.*
 
